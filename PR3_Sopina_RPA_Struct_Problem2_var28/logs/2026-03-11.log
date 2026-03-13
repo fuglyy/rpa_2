@@ -1,0 +1,69 @@
+2026-03-11T03:47:32+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T03:47:33+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\c46087a0-7d4b-4dd0-b7b8-6228bb8e1c7f\sentry_262.py
+2026-03-11T03:47:33+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\c46087a0-7d4b-4dd0-b7b8-6228bb8e1c7f\sentry_262.py Ошибка: Expecting value: line 1 column 1 (char 0)
+2026-03-11T03:47:36+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T03:54:04+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T03:54:04+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\b6d090f5-1844-4872-b593-9b9f95df3dc3\sentry_262.py
+2026-03-11T03:54:30+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\b6d090f5-1844-4872-b593-9b9f95df3dc3\sentry_262.py
+2026-03-11T03:54:31+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T04:06:59+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T04:07:00+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\96e8500a-4627-4179-aff4-e85d1c8449e0\sentry_262.py
+2026-03-11T04:07:00+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\96e8500a-4627-4179-aff4-e85d1c8449e0\sentry_262.py Ошибка: name 'medium_occupancy' is not defined
+2026-03-11T04:07:03+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T04:09:39+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T04:09:40+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\7f0f320a-1f85-4e06-860b-943d2d38e068\sentry_262.py
+2026-03-11T04:09:40+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\7f0f320a-1f85-4e06-860b-943d2d38e068\sentry_262.py Ошибка: name 'medium_occupancy' is not defined
+2026-03-11T04:09:42+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T04:09:50+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T04:09:50+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\80801f08-aaa4-464f-ba23-6a6b4bdc7b78\sentry_262.py
+2026-03-11T04:10:08+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\80801f08-aaa4-464f-ba23-6a6b4bdc7b78\sentry_262.py
+2026-03-11T04:10:09+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T04:10:38+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T04:10:38+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\386ca592-909c-4b1e-9808-2867467a1d4f\sentry_262.py
+2026-03-11T04:11:01+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\386ca592-909c-4b1e-9808-2867467a1d4f\sentry_262.py
+2026-03-11T04:11:01+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T04:12:22+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T04:12:23+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\1b5f8d5f-0ce6-4f38-96d7-e5090a43a0b8\sentry_262.py
+2026-03-11T04:12:32+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\1b5f8d5f-0ce6-4f38-96d7-e5090a43a0b8\sentry_262.py
+2026-03-11T04:12:33+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T14:35:30+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T14:35:31+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\2df76ba6-0945-4d17-bd9d-0db76ffa6a6e\sentry_262.py
+2026-03-11T14:35:46+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\2df76ba6-0945-4d17-bd9d-0db76ffa6a6e\sentry_262.py
+2026-03-11T14:35:46+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T14:36:12+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T14:36:13+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\06538230-df8d-4afe-817d-af2aeb220c9f\sentry_262.py
+2026-03-11T14:36:44+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T14:36:45+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\32b5af7b-9f39-4013-89ea-e80754131ca3\sentry_262.py
+2026-03-11T14:37:12+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\32b5af7b-9f39-4013-89ea-e80754131ca3\sentry_262.py
+2026-03-11T14:37:12+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T14:37:31+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T14:37:31+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\b374d3de-28a1-435c-9b3a-75c4fcf11d75\sentry_262.py
+2026-03-11T14:38:02+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\b374d3de-28a1-435c-9b3a-75c4fcf11d75\sentry_262.py
+2026-03-11T14:38:02+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T14:39:55+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T14:39:55+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\ac0f4d1a-4393-47a8-81d7-fb012ebcc28f\sentry_262.py
+2026-03-11T14:41:44+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\ac0f4d1a-4393-47a8-81d7-fb012ebcc28f\sentry_262.py
+2026-03-11T14:41:45+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T14:42:55+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T14:42:56+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\3ef33594-6167-4cca-a773-21370568c3af\sentry_262.py
+2026-03-11T14:43:10+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\3ef33594-6167-4cca-a773-21370568c3af\sentry_262.py
+2026-03-11T14:43:11+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T14:43:41+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T14:43:41+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\875f990c-3dba-406c-bfed-bdc0df6b8a5d\sentry_262.py
+2026-03-11T15:00:43+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T15:29:20+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T16:33:55+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T16:33:56+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\305d8d8b-0146-4c47-8284-e557ef1eb919\sentry_262.py
+2026-03-11T16:35:44+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T16:35:45+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\79ee357e-011d-43d4-b6ed-11c9f4fd29ff\sentry_262.py
+2026-03-11T16:35:45+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\79ee357e-011d-43d4-b6ed-11c9f4fd29ff\sentry_262.py Ошибка: 'tenant_name'
+2026-03-11T16:35:47+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T16:36:05+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T16:36:06+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\cf892d11-a30b-4c2e-baff-f458ecbe993d\sentry_262.py
+2026-03-11T16:36:06+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\cf892d11-a30b-4c2e-baff-f458ecbe993d\sentry_262.py Ошибка: 'str' object has no attribute 'append'
+2026-03-11T16:36:08+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T16:36:44+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T17:03:44+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json
+2026-03-11T17:03:45+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\dad8f7bd-9c4e-4d67-82bb-fd4924472c1e\sentry_262.py
+2026-03-11T17:03:55+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\resource\dad8f7bd-9c4e-4d67-82bb-fd4924472c1e\sentry_262.py
+2026-03-11T17:03:56+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_Problem2_var28\process\Процесс 1.json

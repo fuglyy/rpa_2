@@ -1,0 +1,4 @@
+2026-03-10T18:15:00+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-10T18:15:04+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\9c0f2afd-ece9-44f9-9e8f-3df109162e64\vector_520.py
+2026-03-10T18:15:04+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\9c0f2afd-ece9-44f9-9e8f-3df109162e64\vector_520.py Ошибка: [Errno 2] No such file or directory: 'D:\\univer\\korporat\\Пкс 2 Сопина\\resource\\rental_market_data.json'
+2026-03-10T18:15:06+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json

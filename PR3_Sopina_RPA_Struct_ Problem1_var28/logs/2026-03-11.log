@@ -1,0 +1,78 @@
+2026-03-11T03:14:38+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:14:40+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\1645326b-62fa-4176-a663-17515a98418b\vector_520.py
+2026-03-11T03:14:40+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\1645326b-62fa-4176-a663-17515a98418b\vector_520.py Ошибка: list indices must be integers or slices, not str
+2026-03-11T03:14:42+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:20:50+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:20:51+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\7e083a36-2d07-4a69-97c8-198dc1cf5e47\vector_520.py
+2026-03-11T03:20:51+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\7e083a36-2d07-4a69-97c8-198dc1cf5e47\vector_520.py Ошибка: list indices must be integers or slices, not str
+2026-03-11T03:20:52+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:21:19+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:21:20+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\68a95e48-5576-4e90-b8c7-d896671eb918\vector_520.py
+2026-03-11T03:21:20+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\68a95e48-5576-4e90-b8c7-d896671eb918\vector_520.py Ошибка: cannot access local variable 'total_apartments' where it is not associated with a value
+2026-03-11T03:21:22+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:22:05+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:22:05+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\75c18f99-c71b-48f5-b8b8-a57fb8f1cb36\vector_520.py
+2026-03-11T03:22:05+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\75c18f99-c71b-48f5-b8b8-a57fb8f1cb36\vector_520.py Ошибка: Не удалось прочитать JSON из D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\result.json: Expecting value: line 1 column 1 (char 0)
+2026-03-11T03:22:07+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:22:15+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:22:15+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\1028a266-060a-4e2a-a883-f2242efa2aba\vector_520.py
+2026-03-11T03:22:15+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\1028a266-060a-4e2a-a883-f2242efa2aba\vector_520.py Ошибка: Не удалось прочитать JSON из D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\result.json: Expecting value: line 1 column 1 (char 0)
+2026-03-11T03:22:29+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:22:50+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:22:51+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\20df63f7-2da9-4eef-9a82-e04ebae2cdf7\vector_520.py
+2026-03-11T03:25:06+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:25:06+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\d94c7bb0-9a3a-4914-9cef-972326081361\vector_520.py
+2026-03-11T03:26:38+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\d94c7bb0-9a3a-4914-9cef-972326081361\vector_520.py
+2026-03-11T03:26:38+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:26:41+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:27:58+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:27:59+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\e71c79bc-e7f9-4c8f-b312-01a77b13915a\vector_520.py
+2026-03-11T03:28:07+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\e71c79bc-e7f9-4c8f-b312-01a77b13915a\vector_520.py
+2026-03-11T03:28:08+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:31:32+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:31:33+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\46a54f4a-b01a-4cc7-80e4-9cb76744febd\vector_520.py
+2026-03-11T03:33:17+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:33:17+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\e055d4df-e483-499c-920b-22c9464b59c4\vector_520.py
+2026-03-11T03:34:41+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:34:41+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\c66573cb-f10d-467c-ab04-53ad13d9bc17\vector_520.py
+2026-03-11T03:36:08+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:36:09+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\eb4051b6-aaeb-436b-ba33-74adfc5f613f\vector_520.py
+2026-03-11T03:36:53+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:36:53+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\f850e143-9139-473a-bdfa-66206de7875e\vector_520.py
+2026-03-11T03:37:11+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\f850e143-9139-473a-bdfa-66206de7875e\vector_520.py
+2026-03-11T03:37:11+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:39:46+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:39:56+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:40:15+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:40:30+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:40:34+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:41:06+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:41:10+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:41:22+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:41:26+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T03:41:29+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T14:46:43+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T14:46:47+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T14:47:05+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T14:47:06+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\a6762508-601e-4131-ac66-e5b70c8f428c\vector_520.py
+2026-03-11T14:47:06+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\a6762508-601e-4131-ac66-e5b70c8f428c\vector_520.py Ошибка: list indices must be integers or slices, not str
+2026-03-11T14:47:10+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T14:48:48+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T14:48:49+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\419829b9-d34c-4c0b-837b-0c3441c15316\vector_520.py
+2026-03-11T14:48:49+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\419829b9-d34c-4c0b-837b-0c3441c15316\vector_520.py Ошибка: list indices must be integers or slices, not str
+2026-03-11T14:48:52+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T14:53:15+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T14:53:15+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\ebea696e-aad5-49c3-a439-b077cccf4c7f\vector_520.py
+2026-03-11T14:53:15+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\ebea696e-aad5-49c3-a439-b077cccf4c7f\vector_520.py Ошибка: list indices must be integers or slices, not str
+2026-03-11T14:53:31+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T15:00:46+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T15:00:46+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\8ab53cd8-0524-4792-b91c-c237b4a4ebc8\vector_520.py
+2026-03-11T15:08:03+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T15:23:11+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T15:23:12+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\dd95ff5e-0e77-4f2e-aca2-1e91fdad3319\vector_520.py
+2026-03-11T15:24:03+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T15:24:04+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\0ae2c477-c56b-4c9e-94cc-95a9a7a6c0ad\vector_520.py
+2026-03-11T15:24:26+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\0ae2c477-c56b-4c9e-94cc-95a9a7a6c0ad\vector_520.py
+2026-03-11T15:24:27+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-11T15:24:28+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\dd95ff5e-0e77-4f2e-aca2-1e91fdad3319\vector_520.py
+2026-03-11T15:24:29+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json

@@ -1,0 +1,12 @@
+2026-03-12T10:30:10+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-12T10:30:12+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\4ce26a35-17fa-4fa5-af78-d69bc0a858bb\vector_520.py
+2026-03-12T10:30:49+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\4ce26a35-17fa-4fa5-af78-d69bc0a858bb\vector_520.py
+2026-03-12T10:30:50+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-12T10:56:57+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-12T10:56:59+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\03294142-86ab-43a9-8cef-0bbd5ba00df2\vector_520.py
+2026-03-12T10:57:02+0300 ERROR: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\03294142-86ab-43a9-8cef-0bbd5ba00df2\vector_520.py Ошибка: Не удалось прочитать JSON из D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\result.json: Expecting value: line 1 column 1 (char 0)
+2026-03-12T10:57:29+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-12T10:57:58+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
+2026-03-12T10:57:59+0300 INFO: Старт робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\b4031d9a-323c-4018-9ec7-ef054bdf285a\vector_520.py
+2026-03-12T10:58:04+0300 INFO: Завершение работы робота: D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\resource\b4031d9a-323c-4018-9ec7-ef054bdf285a\vector_520.py
+2026-03-12T10:58:04+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR3_Sopina_RPA_Struct_ Problem1_var28\process\Процесс 1.json
