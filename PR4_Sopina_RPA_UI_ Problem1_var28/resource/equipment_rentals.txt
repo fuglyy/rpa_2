@@ -1,0 +1,6 @@
+Иванов Петр Сергеевич, ivanov.ps@example.com, 15
+Смирнова Елена Андреевна, smirnova.elena@test.ru, 20
+Кузнецов Дмитрий Алексеевич, kuznetsov.da@mail.test, 80
+Попова Анна Викторовна, popova.anna@demo.org, 57
+Соколов Максим Игоревич, sokolov.mi@example.ru, 8
+Лебедева Ольга Николаевна, lebedeva.on@sample.net, 69
