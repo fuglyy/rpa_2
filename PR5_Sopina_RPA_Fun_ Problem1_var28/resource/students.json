@@ -1,0 +1,38 @@
+[
+  {
+    "student_name": "Соколов С.С.",
+    "gpa": 4.5,
+    "preferred_schedule": "утро",
+    "specialization": "программирование"
+  },
+  {
+    "student_name": "Иванова А.А.",
+    "gpa": 4.9,
+    "preferred_schedule": "вечер",
+    "specialization": "дизайн"
+  },
+  {
+    "student_name": "Петров В.В.",
+    "gpa": 3.8,
+    "preferred_schedule": "утро",
+    "specialization": "аналитика"
+  },
+  {
+    "student_name": "Сидорова Е.Е.",
+    "gpa": 4.2,
+    "preferred_schedule": "день",
+    "specialization": "менеджмент"
+  },
+  {
+    "student_name": "Кузнецов Д.Д.",
+    "gpa": 5.0,
+    "preferred_schedule": "утро",
+    "specialization": "программирование"
+  },
+  {
+    "student_name": "Морозова О.О.",
+    "gpa": 3.5,
+    "preferred_schedule": "вечер",
+    "specialization": "аналитика"
+  }
+]

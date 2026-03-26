@@ -1,0 +1,12 @@
+2026-03-21T18:30:36+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR5_Sopina_RPA_Fun_ Problem1_var28\process\Процесс 1.json
+2026-03-21T18:30:38+0300 INFO: Старт робота: D:\univer\korporat\PR5_Sopina_RPA_Fun_ Problem1_var28\resource\bf01769a-c0bd-4c10-996f-8e2892e0b7f8\sentry_286.py
+2026-03-21T18:30:38+0300 ERROR: D:\univer\korporat\PR5_Sopina_RPA_Fun_ Problem1_var28\resource\bf01769a-c0bd-4c10-996f-8e2892e0b7f8\sentry_286.py Ошибка: Данные должны быть словарём для JSON файла
+2026-03-21T18:30:43+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR5_Sopina_RPA_Fun_ Problem1_var28\process\Процесс 1.json
+2026-03-21T18:31:45+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR5_Sopina_RPA_Fun_ Problem1_var28\process\Процесс 1.json
+2026-03-21T18:31:47+0300 INFO: Старт робота: D:\univer\korporat\PR5_Sopina_RPA_Fun_ Problem1_var28\resource\f081c87a-71c3-44d6-afb7-bf638e625408\sentry_286.py
+2026-03-21T18:31:47+0300 ERROR: D:\univer\korporat\PR5_Sopina_RPA_Fun_ Problem1_var28\resource\f081c87a-71c3-44d6-afb7-bf638e625408\sentry_286.py Ошибка: Данные должны быть словарём для JSON файла
+2026-03-21T18:32:01+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR5_Sopina_RPA_Fun_ Problem1_var28\process\Процесс 1.json
+2026-03-21T18:32:37+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR5_Sopina_RPA_Fun_ Problem1_var28\process\Процесс 1.json
+2026-03-21T18:32:39+0300 INFO: Старт робота: D:\univer\korporat\PR5_Sopina_RPA_Fun_ Problem1_var28\resource\59ee68b1-a982-4070-9bcc-b8b56a871a30\sentry_286.py
+2026-03-21T18:32:49+0300 INFO: Завершение работы робота: D:\univer\korporat\PR5_Sopina_RPA_Fun_ Problem1_var28\resource\59ee68b1-a982-4070-9bcc-b8b56a871a30\sentry_286.py
+2026-03-21T18:32:50+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR5_Sopina_RPA_Fun_ Problem1_var28\process\Процесс 1.json
