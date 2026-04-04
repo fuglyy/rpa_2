@@ -1,0 +1,20 @@
+2026-04-03T17:14:38+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\process\Процесс 1.json
+2026-04-03T17:14:41+0300 INFO: Старт робота: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\resource\d8e0da0a-52a0-409a-b97e-4f8c26935371\spark_589.py
+2026-04-03T17:14:41+0300 ERROR: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\resource\d8e0da0a-52a0-409a-b97e-4f8c26935371\spark_589.py Ошибка: Критическая ошибка при фильтрации: Для операции 'eq' необходимо указать значение
+2026-04-03T17:14:46+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\process\Процесс 1.json
+2026-04-03T17:14:53+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\process\Процесс 1.json
+2026-04-03T17:14:56+0300 INFO: Старт робота: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\resource\af96cb21-355f-47a3-94c3-620ac2b36a6a\spark_589.py
+2026-04-03T17:14:56+0300 ERROR: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\resource\af96cb21-355f-47a3-94c3-620ac2b36a6a\spark_589.py Ошибка: Критическая ошибка при фильтрации: Для операции 'eq' необходимо указать значение
+2026-04-03T17:15:15+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\process\Процесс 1.json
+2026-04-03T17:17:06+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\process\Процесс 1.json
+2026-04-03T17:17:09+0300 INFO: Старт робота: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\resource\2c063583-3c24-4496-a346-f5fd925e8516\spark_589.py
+2026-04-03T17:17:09+0300 ERROR: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\resource\2c063583-3c24-4496-a346-f5fd925e8516\spark_589.py Ошибка: Критическая ошибка при фильтрации: Для операции 'eq' необходимо указать значение
+2026-04-03T17:17:11+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\process\Процесс 1.json
+2026-04-03T17:19:36+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\process\Процесс 1.json
+2026-04-03T17:19:39+0300 INFO: Старт робота: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\resource\8dc652a7-6536-4448-8792-cd5b61f1806b\spark_589.py
+2026-04-03T17:19:39+0300 ERROR: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\resource\8dc652a7-6536-4448-8792-cd5b61f1806b\spark_589.py Ошибка: Критическая ошибка при фильтрации: Для операции 'eq' необходимо указать значение
+2026-04-03T17:19:41+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\process\Процесс 1.json
+2026-04-03T17:20:43+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\process\Процесс 1.json
+2026-04-03T17:20:46+0300 INFO: Старт робота: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\resource\7b994acc-6770-48e9-aa1f-4767e80d26c9\spark_589.py
+2026-04-03T17:20:59+0300 INFO: Завершение работы робота: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\resource\7b994acc-6770-48e9-aa1f-4767e80d26c9\spark_589.py
+2026-04-03T17:21:00+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_Problem2_var28\process\Процесс 1.json

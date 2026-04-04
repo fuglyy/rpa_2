@@ -1,0 +1,16 @@
+2026-04-03T16:56:05+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\process\Процесс 1.json
+2026-04-03T16:56:10+0300 INFO: Старт робота: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\resource\006cd286-5c5e-4e90-a581-793ec072280c\bot_98.py
+2026-04-03T16:56:10+0300 ERROR: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\resource\006cd286-5c5e-4e90-a581-793ec072280c\bot_98.py Ошибка: Addition/subtraction of integers and integer-arrays with DatetimeArray is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2026-04-03T16:56:23+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\process\Процесс 1.json
+2026-04-03T16:56:43+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\process\Процесс 1.json
+2026-04-03T16:56:46+0300 INFO: Старт робота: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\resource\ad5aead3-383e-4a7e-a49b-a9e0e404f21a\bot_98.py
+2026-04-03T16:56:46+0300 ERROR: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\resource\ad5aead3-383e-4a7e-a49b-a9e0e404f21a\bot_98.py Ошибка: name 'table' is not defined
+2026-04-03T16:56:48+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\process\Процесс 1.json
+2026-04-03T16:56:56+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\process\Процесс 1.json
+2026-04-03T16:57:00+0300 INFO: Старт робота: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\resource\302c467b-fc2e-46c1-95d6-387287255662\bot_98.py
+2026-04-03T16:57:00+0300 ERROR: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\resource\302c467b-fc2e-46c1-95d6-387287255662\bot_98.py Ошибка: name 'table' is not defined
+2026-04-03T16:57:02+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\process\Процесс 1.json
+2026-04-03T16:57:08+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\process\Процесс 1.json
+2026-04-03T16:57:11+0300 INFO: Старт робота: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\resource\462392d6-8f35-43ce-bcc9-929f0fc24cd6\bot_98.py
+2026-04-03T16:57:33+0300 INFO: Завершение работы робота: D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\resource\462392d6-8f35-43ce-bcc9-929f0fc24cd6\bot_98.py
+2026-04-03T16:57:35+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR6_Sopina_RPA_DataFrame_ Problem1_varN28\process\Процесс 1.json
