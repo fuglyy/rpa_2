@@ -1,0 +1,151 @@
+2026-04-14T23:13:13+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:13:15+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\60fcec0e-fedc-4a90-946c-66e372d3def3\llirik_606.py
+2026-04-14T23:13:15+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\60fcec0e-fedc-4a90-946c-66e372d3def3\llirik_606.py Ошибка: [WinError 2] Не удается найти указанный файл
+2026-04-14T23:13:19+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:14:03+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:14:04+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\d7f58efc-70d6-4fb8-90c8-e31c3887a1cc\llirik_606.py
+2026-04-14T23:14:17+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\d7f58efc-70d6-4fb8-90c8-e31c3887a1cc\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Card', ControlType: ListItemControl}
+2026-04-14T23:14:20+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:14:21+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\cc7fb652-31bc-44fa-9971-4ff94dba8d53\llirik_606.py
+2026-04-14T23:14:27+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:14:29+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\cc7fb652-31bc-44fa-9971-4ff94dba8d53\llirik_606.py Ошибка: (-2147024891, 'Отказано в доступе.', (None, None, None, 0, None))
+2026-04-14T23:14:32+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:14:33+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:14:35+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\92815717-6dde-4ce5-a6dd-237bffa40cdb\llirik_606.py
+2026-04-14T23:15:22+0300 INFO: Завершение работы робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\92815717-6dde-4ce5-a6dd-237bffa40cdb\llirik_606.py
+2026-04-14T23:15:22+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:15:57+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:15:59+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\bd5adad0-9a8a-48bf-85d0-52d915a75bdc\llirik_606.py
+2026-04-14T23:16:44+0300 INFO: Завершение работы робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\bd5adad0-9a8a-48bf-85d0-52d915a75bdc\llirik_606.py
+2026-04-14T23:16:44+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:22:13+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:22:14+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\05b5112b-ce88-45f3-8550-a2ca5f2bae0e\llirik_606.py
+2026-04-14T23:22:59+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\05b5112b-ce88-45f3-8550-a2ca5f2bae0e\llirik_606.py Ошибка: cannot access local variable 'index_line' where it is not associated with a value
+2026-04-14T23:23:10+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:27:26+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:27:27+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\56b32a6b-1991-4b33-b814-9b03977670ac\llirik_606.py
+2026-04-14T23:28:12+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\56b32a6b-1991-4b33-b814-9b03977670ac\llirik_606.py Ошибка: cannot access local variable 'index_line' where it is not associated with a value
+2026-04-14T23:28:15+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:28:47+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:28:48+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\1a46f64a-e9bc-4bb9-953f-133b5403c110\llirik_606.py
+2026-04-14T23:29:33+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\1a46f64a-e9bc-4bb9-953f-133b5403c110\llirik_606.py Ошибка: cannot access local variable 'index_line' where it is not associated with a value
+2026-04-14T23:29:36+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:30:57+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:30:58+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\9e65121e-8d26-417b-acc8-de8d11f0a45b\llirik_606.py
+2026-04-14T23:31:06+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:31:18+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:31:19+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\2cf744e2-edd9-4666-8be9-6075f9ddac92\llirik_606.py
+2026-04-14T23:31:38+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\2cf744e2-edd9-4666-8be9-6075f9ddac92\llirik_606.py Ошибка: 6
+2026-04-14T23:31:44+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:31:55+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:31:56+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\ea10147f-4785-4f92-82bc-833dbc4c1202\llirik_606.py
+2026-04-14T23:32:18+0300 INFO: Завершение работы робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\ea10147f-4785-4f92-82bc-833dbc4c1202\llirik_606.py
+2026-04-14T23:32:18+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:34:32+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:34:34+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\8ee2bc6d-6bfb-4144-9657-414b514a8db7\llirik_606.py
+2026-04-14T23:34:53+0300 INFO: Завершение работы робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\8ee2bc6d-6bfb-4144-9657-414b514a8db7\llirik_606.py
+2026-04-14T23:34:53+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:39:47+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:39:49+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\96e585ac-17da-4a61-a133-dac9651f50c4\llirik_606.py
+2026-04-14T23:40:10+0300 INFO: Завершение работы робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\96e585ac-17da-4a61-a133-dac9651f50c4\llirik_606.py
+2026-04-14T23:40:11+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:40:42+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:40:43+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\a091d3cd-0b75-4e98-807b-201ef5b3750a\llirik_606.py
+2026-04-14T23:41:16+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\a091d3cd-0b75-4e98-807b-201ef5b3750a\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Строка 0', ControlType: CustomControl}
+2026-04-14T23:41:22+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:41:51+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:41:53+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\0ea73185-495b-4c46-8b49-a94b1f47147d\llirik_606.py
+2026-04-14T23:42:28+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\0ea73185-495b-4c46-8b49-a94b1f47147d\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Строка 0', ControlType: HeaderControl}
+2026-04-14T23:42:31+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:42:43+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:42:45+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\9e6fe7ec-d229-4111-a032-9c42f1040d3a\llirik_606.py
+2026-04-14T23:43:19+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\9e6fe7ec-d229-4111-a032-9c42f1040d3a\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-14T23:43:30+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:44:32+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:44:33+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\2e294452-0f5c-4781-9f47-4561331ae75c\llirik_606.py
+2026-04-14T23:44:54+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\2e294452-0f5c-4781-9f47-4561331ae75c\llirik_606.py Ошибка: can only concatenate str (not "int") to str
+2026-04-14T23:44:58+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:45:31+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:45:32+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\193c9b3e-6bcf-430f-b028-b8cf539732f5\llirik_606.py
+2026-04-14T23:45:38+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\193c9b3e-6bcf-430f-b028-b8cf539732f5\llirik_606.py Ошибка: 3
+2026-04-14T23:45:42+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:45:59+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:46:00+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\745af3b6-c13c-47a8-8ccf-4ba52f573112\llirik_606.py
+2026-04-14T23:46:13+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\745af3b6-c13c-47a8-8ccf-4ba52f573112\llirik_606.py Ошибка: 5
+2026-04-14T23:46:19+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:46:58+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:46:59+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\891cdbb6-4227-49b2-b959-1c02829bf90d\llirik_606.py
+2026-04-14T23:47:23+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\891cdbb6-4227-49b2-b959-1c02829bf90d\llirik_606.py Ошибка: can only concatenate str (not "int") to str
+2026-04-14T23:48:18+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:49:25+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:49:27+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\4beb178d-a2d3-4c72-9317-bc737d973d91\llirik_606.py
+2026-04-14T23:50:01+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\4beb178d-a2d3-4c72-9317-bc737d973d91\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-14T23:50:11+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:53:32+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:53:33+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\bda45cc0-acb9-4bda-aa13-c6ab23893fc1\llirik_606.py
+2026-04-14T23:54:07+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\bda45cc0-acb9-4bda-aa13-c6ab23893fc1\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-14T23:54:11+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:56:14+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:56:15+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\2a5cae59-70f4-40d6-89dd-7ba4e01402d6\llirik_606.py
+2026-04-14T23:56:47+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\2a5cae59-70f4-40d6-89dd-7ba4e01402d6\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Строка 0', ControlType: CustomControl}
+2026-04-14T23:56:53+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:57:58+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:57:59+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\ca98ab14-5075-48da-b545-e4514f51c67a\llirik_606.py
+2026-04-14T23:58:34+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\ca98ab14-5075-48da-b545-e4514f51c67a\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Строка 0', ControlType: CustomControl}
+2026-04-14T23:58:43+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:58:59+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-14T23:59:00+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\c27c7ce7-a433-4387-8854-e859b934644f\llirik_606.py
+2026-04-14T23:59:43+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\c27c7ce7-a433-4387-8854-e859b934644f\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-15T00:00:17+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:01:23+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:02:05+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:02:34+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:03:30+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:04:28+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:04:56+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:06:31+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:06:57+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:08:33+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:08:58+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:10:45+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:11:27+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:15:14+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:15:59+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:17:55+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:18:23+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:22:44+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:23:09+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:27:50+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:28:37+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:29:06+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:29:34+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:29:56+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:30:17+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:31:03+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:31:33+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:34:30+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:34:58+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:36:54+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:37:22+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:37:43+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:38:03+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:38:45+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:39:02+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:40:13+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:40:28+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:40:50+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:41:05+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:41:13+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:41:46+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:42:43+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:42:57+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:46:54+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:47:08+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:47:50+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:48:04+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:50:35+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:50:50+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:51:45+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:51:58+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:52:53+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-15T00:53:07+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json

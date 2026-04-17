@@ -1,0 +1,4 @@
+2026-04-16T17:01:24+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
+2026-04-16T17:01:27+0300 INFO: Старт робота: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\b7e110d9-d48b-4e0c-8e53-118b7636fd59\llirik_606.py
+2026-04-16T17:02:02+0300 ERROR: D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\resource\b7e110d9-d48b-4e0c-8e53-118b7636fd59\llirik_606.py Ошибка: string index out of range
+2026-04-16T17:02:05+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR8_Sopina_RPA_Desktop_p2_Problem2_var28\process\Процесс 1.json
