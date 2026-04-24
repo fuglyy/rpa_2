@@ -1,0 +1,182 @@
+2026-04-09T10:29:23+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:29:27+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\16f3ec9b-cbed-4ebd-9a55-e5122de8e0c4\llirik_606.py
+2026-04-09T10:29:27+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\16f3ec9b-cbed-4ebd-9a55-e5122de8e0c4\llirik_606.py Ошибка: [WinError 193] %1 не является приложением Win32
+2026-04-09T10:29:31+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:29:33+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:29:36+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\f001b7ab-41a7-4aba-84ae-39badeaf5b11\llirik_606.py
+2026-04-09T10:29:36+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\f001b7ab-41a7-4aba-84ae-39badeaf5b11\llirik_606.py Ошибка: [WinError 193] %1 не является приложением Win32
+2026-04-09T10:29:43+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:34:00+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:34:03+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\169b7ffe-f3fc-4ad7-82ae-5481eb9825e9\llirik_606.py
+2026-04-09T10:34:24+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\169b7ffe-f3fc-4ad7-82ae-5481eb9825e9\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T10:34:36+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:34:39+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:34:42+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\84f1c12a-eb61-48a8-a740-91048660ed59\llirik_606.py
+2026-04-09T10:35:03+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\84f1c12a-eb61-48a8-a740-91048660ed59\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T10:35:08+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:35:37+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:35:40+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\6740b528-fe98-4cd4-806e-0899990714e6\llirik_606.py
+2026-04-09T10:36:00+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\6740b528-fe98-4cd4-806e-0899990714e6\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T10:36:01+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:37:30+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:37:33+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\7f12d1f6-a703-45cf-90cc-d35668220aa6\llirik_606.py
+2026-04-09T10:37:54+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\7f12d1f6-a703-45cf-90cc-d35668220aa6\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T10:38:02+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:39:18+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:39:20+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\808bcdde-53c8-4636-a748-b66189c85c89\llirik_606.py
+2026-04-09T10:39:43+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\808bcdde-53c8-4636-a748-b66189c85c89\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T10:40:00+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:43:56+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:43:59+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\9e268c85-e24b-477e-8509-902b696fc504\llirik_606.py
+2026-04-09T10:44:26+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\9e268c85-e24b-477e-8509-902b696fc504\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T10:44:42+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:45:53+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:45:55+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\a33c4000-92c1-44a2-81ee-9646fe18d5be\llirik_606.py
+2026-04-09T10:46:22+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\a33c4000-92c1-44a2-81ee-9646fe18d5be\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T10:46:29+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:47:53+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:47:55+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\fa81227e-c085-4b4b-b95c-bb35ec97697b\llirik_606.py
+2026-04-09T10:48:21+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\fa81227e-c085-4b4b-b95c-bb35ec97697b\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T10:48:26+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:49:33+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:49:36+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\beef7200-3328-4fdd-9e34-6285d11dc000\llirik_606.py
+2026-04-09T10:50:00+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\beef7200-3328-4fdd-9e34-6285d11dc000\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Card', ControlType: ListItemControl}
+2026-04-09T10:50:10+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:50:12+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:50:14+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\473cd412-1aa4-4fd7-a5d3-43b1242f2936\llirik_606.py
+2026-04-09T10:50:40+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\473cd412-1aa4-4fd7-a5d3-43b1242f2936\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T10:50:43+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:50:50+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:50:53+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\541abc0d-40c3-48ae-9593-075a627a1f5d\llirik_606.py
+2026-04-09T10:51:20+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\541abc0d-40c3-48ae-9593-075a627a1f5d\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T10:51:23+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:51:47+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:51:49+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\c2eb5080-0dd3-4e2f-8d14-95f88c5d0b24\llirik_606.py
+2026-04-09T10:52:16+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\c2eb5080-0dd3-4e2f-8d14-95f88c5d0b24\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T10:52:20+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:54:04+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:54:07+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\1e6e83ab-5ab6-4e8f-9795-893a9c7fca15\llirik_606.py
+2026-04-09T10:54:33+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\1e6e83ab-5ab6-4e8f-9795-893a9c7fca15\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T10:54:39+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:58:38+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:58:41+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\6b99fe57-67b7-480d-9dd0-893a317c9e4a\llirik_606.py
+2026-04-09T10:58:41+0300 INFO: Завершение работы робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\6b99fe57-67b7-480d-9dd0-893a317c9e4a\llirik_606.py
+2026-04-09T10:58:41+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:58:55+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:58:57+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\ee1e5d5d-40c2-4ccf-b6d3-001ed930e645\llirik_606.py
+2026-04-09T10:58:57+0300 INFO: Завершение работы робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\ee1e5d5d-40c2-4ccf-b6d3-001ed930e645\llirik_606.py
+2026-04-09T10:58:58+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:59:07+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:59:10+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\032eb677-1643-4a68-bf27-020e38bcac27\llirik_606.py
+2026-04-09T10:59:10+0300 INFO: Завершение работы робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\032eb677-1643-4a68-bf27-020e38bcac27\llirik_606.py
+2026-04-09T10:59:10+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:59:19+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:59:21+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\38964629-9d3a-4973-8810-7402d8ed9a19\llirik_606.py
+2026-04-09T10:59:21+0300 INFO: Завершение работы робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\38964629-9d3a-4973-8810-7402d8ed9a19\llirik_606.py
+2026-04-09T10:59:21+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:59:54+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T10:59:56+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\d530c9ac-484f-409b-90d4-3187d23963de\llirik_606.py
+2026-04-09T10:59:56+0300 INFO: Завершение работы робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\d530c9ac-484f-409b-90d4-3187d23963de\llirik_606.py
+2026-04-09T10:59:56+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:02:37+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:02:39+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\1d84205a-f0c1-4f06-9706-00ac2998db79\llirik_606.py
+2026-04-09T11:02:46+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\1d84205a-f0c1-4f06-9706-00ac2998db79\llirik_606.py Ошибка: string indices must be integers, not 'str'
+2026-04-09T11:02:53+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:03:10+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:03:13+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\d868840b-4394-4872-be93-af38f0f296a2\llirik_606.py
+2026-04-09T11:03:19+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\d868840b-4394-4872-be93-af38f0f296a2\llirik_606.py Ошибка: string indices must be integers, not 'str'
+2026-04-09T11:03:25+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:03:36+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:03:39+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\f4065c1f-33c8-44fc-be87-d475ddf9507f\llirik_606.py
+2026-04-09T11:03:45+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\f4065c1f-33c8-44fc-be87-d475ddf9507f\llirik_606.py Ошибка: string indices must be integers, not 'str'
+2026-04-09T11:03:56+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:04:14+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:04:16+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\2349e791-b63b-4749-aef0-204c27b36cca\llirik_606.py
+2026-04-09T11:04:23+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\2349e791-b63b-4749-aef0-204c27b36cca\llirik_606.py Ошибка: string indices must be integers, not 'str'
+2026-04-09T11:04:26+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:14:05+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:14:08+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\ad6782e3-4a9a-4fbf-b551-fed8b878f63f\llirik_606.py
+2026-04-09T11:14:14+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\ad6782e3-4a9a-4fbf-b551-fed8b878f63f\llirik_606.py Ошибка: string indices must be integers, not 'str'
+2026-04-09T11:14:52+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:15:26+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:15:29+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\2c457b23-15d1-435d-bf22-bcdbdfcb95f0\llirik_606.py
+2026-04-09T11:16:24+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:18:28+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:18:31+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\2b69a4f7-e888-40c3-8227-8986d7c173c8\llirik_606.py
+2026-04-09T11:19:21+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\2b69a4f7-e888-40c3-8227-8986d7c173c8\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r8_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T11:19:24+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:21:00+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:21:02+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\9292f47f-15c3-4064-bbf6-a189e2251329\llirik_606.py
+2026-04-09T11:21:45+0300 INFO: Завершение работы робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\9292f47f-15c3-4064-bbf6-a189e2251329\llirik_606.py
+2026-04-09T11:21:45+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:22:12+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:22:15+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\b9ec9b83-4851-498f-90bb-45a3324d4ddc\llirik_606.py
+2026-04-09T11:22:46+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\b9ec9b83-4851-498f-90bb-45a3324d4ddc\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r8_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T11:22:51+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:24:11+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:24:14+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\3ea9779b-83f1-4690-8867-6efa56f98c6f\llirik_606.py
+2026-04-09T11:24:27+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:24:46+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:24:48+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\b2cafbbc-4fe7-4c19-9b23-c01c22ef0915\llirik_606.py
+2026-04-09T11:25:32+0300 INFO: Завершение работы робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\b2cafbbc-4fe7-4c19-9b23-c01c22ef0915\llirik_606.py
+2026-04-09T11:25:32+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:25:49+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:25:52+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\6a437456-a9f5-40e0-b93d-4d0d7e3b9d04\llirik_606.py
+2026-04-09T11:26:13+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\6a437456-a9f5-40e0-b93d-4d0d7e3b9d04\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T11:26:16+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:27:16+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:27:19+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\c6aa42d4-533c-4de8-9adc-78a0b0173234\llirik_606.py
+2026-04-09T11:27:39+0300 INFO: Завершение работы робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\c6aa42d4-533c-4de8-9adc-78a0b0173234\llirik_606.py
+2026-04-09T11:27:39+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:28:24+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:28:26+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\1239edfc-90b3-474b-9577-ce2321b13dd6\llirik_606.py
+2026-04-09T11:28:46+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\1239edfc-90b3-474b-9577-ce2321b13dd6\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T11:28:49+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:31:01+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:31:03+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\a90436b2-293c-48f5-9f2a-35002d1398bd\llirik_606.py
+2026-04-09T11:31:24+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\a90436b2-293c-48f5-9f2a-35002d1398bd\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T11:31:32+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:31:40+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:31:43+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\5f1e6be9-543d-4054-85c5-4a6fa9160d93\llirik_606.py
+2026-04-09T11:32:03+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\5f1e6be9-543d-4054-85c5-4a6fa9160d93\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T11:32:06+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:32:29+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:32:32+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\3f5b6170-37b9-429a-af67-9b0ec37a307a\llirik_606.py
+2026-04-09T11:32:57+0300 INFO: Завершение работы робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\3f5b6170-37b9-429a-af67-9b0ec37a307a\llirik_606.py
+2026-04-09T11:32:57+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:33:56+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:33:58+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\f853de2e-bd10-4ed2-a821-dd3d1ae5515c\llirik_606.py
+2026-04-09T11:34:23+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\f853de2e-bd10-4ed2-a821-dd3d1ae5515c\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Cash', ControlType: ListItemControl}
+2026-04-09T11:34:27+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:34:32+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:34:34+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\79803fd5-0d2a-48ec-b2a4-a8fcdf4bd63a\llirik_606.py
+2026-04-09T11:35:03+0300 INFO: Завершение работы робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\79803fd5-0d2a-48ec-b2a4-a8fcdf4bd63a\llirik_606.py
+2026-04-09T11:35:04+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:37:47+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T11:37:49+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\55ba9f02-49ef-4aa8-abb9-5f8897df0cff\llirik_606.py
+2026-04-09T11:38:16+0300 INFO: Завершение работы робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\55ba9f02-49ef-4aa8-abb9-5f8897df0cff\llirik_606.py
+2026-04-09T11:38:16+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T22:01:13+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T22:01:15+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\b60ce3c1-a429-4e8b-8621-69b964269ccf\llirik_606.py
+2026-04-09T22:01:43+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\b60ce3c1-a429-4e8b-8621-69b964269ccf\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T22:01:48+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T22:03:39+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T22:03:40+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\f909751d-9b95-4417-bf06-2e65d3f6fd2a\llirik_606.py
+2026-04-09T22:03:55+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\f909751d-9b95-4417-bf06-2e65d3f6fd2a\llirik_606.py Ошибка: (-2147220991, 'Событие не смогло вызвать ни одного из абонентов', (None, None, None, 0, None))
+2026-04-09T22:03:58+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T22:04:00+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T22:04:01+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\5929d9d2-6938-446d-a7d3-64a5ba106b89\llirik_606.py
+2026-04-09T22:04:29+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\5929d9d2-6938-446d-a7d3-64a5ba106b89\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r9_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-09T22:04:34+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T22:06:05+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T22:06:07+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\94f9b23d-e316-4f0e-8db7-0fb84376a5f7\llirik_606.py
+2026-04-09T22:06:26+0300 INFO: Завершение работы робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\94f9b23d-e316-4f0e-8db7-0fb84376a5f7\llirik_606.py
+2026-04-09T22:06:26+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T22:21:25+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T22:21:26+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\3ca32702-1925-4ba5-b67b-f1afd18d576e\llirik_606.py
+2026-04-09T22:21:32+0300 ERROR: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\3ca32702-1925-4ba5-b67b-f1afd18d576e\llirik_606.py Ошибка: (-2147024891, 'Отказано в доступе.', (None, None, None, 0, None))
+2026-04-09T22:21:34+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T22:21:41+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json
+2026-04-09T22:21:42+0300 INFO: Старт робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\530c4a5c-7e77-4b98-b2d4-000b16264bd7\llirik_606.py
+2026-04-09T22:22:01+0300 INFO: Завершение работы робота: D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\resource\530c4a5c-7e77-4b98-b2d4-000b16264bd7\llirik_606.py
+2026-04-09T22:22:01+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR7_Sopina_RPA_Desktop_p1_Problem2_var28\process\Процесс 1.json

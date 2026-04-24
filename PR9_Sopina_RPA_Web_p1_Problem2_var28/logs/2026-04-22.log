@@ -1,0 +1,71 @@
+2026-04-22T15:49:35+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T15:49:40+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\ed0e2d05-47e4-45eb-bd9c-1c82c24022d5\llirik_606.py
+2026-04-22T15:49:51+0300 ERROR: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\ed0e2d05-47e4-45eb-bd9c-1c82c24022d5\llirik_606.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', ClassName: 'WindowsForms10.Window.8.app.0.141b42a_r8_ad1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-04-22T15:49:57+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T15:50:20+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T15:50:24+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\bdf8b009-c4fc-4ca5-a500-e3d4f534c962\llirik_606.py
+2026-04-22T15:50:24+0300 ERROR: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\bdf8b009-c4fc-4ca5-a500-e3d4f534c962\llirik_606.py Ошибка: No valid browser path found in: ['C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe']
+2026-04-22T15:50:40+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T15:51:16+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T15:51:20+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\b70b01de-922a-4ee0-be5f-1382b6d1c0e8\llirik_606.py
+2026-04-22T15:52:28+0300 INFO: Завершение работы робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\b70b01de-922a-4ee0-be5f-1382b6d1c0e8\llirik_606.py
+2026-04-22T15:52:28+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T15:57:01+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T15:57:05+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\9a7237a3-9f93-4530-b6b5-6e3509ae22e0\llirik_606.py
+2026-04-22T15:57:25+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T15:58:13+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T15:58:17+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\ec88b00f-3ebf-40e2-951a-4c8659e9c4c1\llirik_606.py
+2026-04-22T15:58:39+0300 ERROR: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\ec88b00f-3ebf-40e2-951a-4c8659e9c4c1\llirik_606.py Ошибка: Элемент не найден: XPATH=/html/body/div/div[2]/div[2]/div[1]/select
+2026-04-22T15:58:41+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T15:59:40+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T15:59:44+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\7c594a37-fdf1-41b3-a281-702f8b604d74\llirik_606.py
+2026-04-22T16:00:17+0300 ERROR: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\7c594a37-fdf1-41b3-a281-702f8b604d74\llirik_606.py Ошибка: server rejected WebSocket connection: HTTP 500
+2026-04-22T16:00:24+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:00:46+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:00:50+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\40cbb592-5a9f-4875-babb-a410931aaec4\llirik_606.py
+2026-04-22T16:00:58+0300 ERROR: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\40cbb592-5a9f-4875-babb-a410931aaec4\llirik_606.py Ошибка: server rejected WebSocket connection: HTTP 500
+2026-04-22T16:01:11+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:01:37+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:01:41+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\a5cacded-0f05-41d9-a34b-1fbdb8ee1f2d\llirik_606.py
+2026-04-22T16:01:57+0300 INFO: Завершение работы робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\a5cacded-0f05-41d9-a34b-1fbdb8ee1f2d\llirik_606.py
+2026-04-22T16:01:58+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:20:36+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:20:40+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\1bd0a926-8f44-4759-897f-879667db9af2\llirik_606.py
+2026-04-22T16:20:57+0300 INFO: Завершение работы робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\1bd0a926-8f44-4759-897f-879667db9af2\llirik_606.py
+2026-04-22T16:20:58+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:23:11+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:23:15+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\d14214f7-3bcf-43eb-98bc-ad1eb3228336\llirik_606.py
+2026-04-22T16:23:38+0300 INFO: Завершение работы робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\d14214f7-3bcf-43eb-98bc-ad1eb3228336\llirik_606.py
+2026-04-22T16:23:41+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:24:29+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:24:33+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\f7d9a8d5-68d1-497f-81b0-48bd9b85b72c\llirik_606.py
+2026-04-22T16:24:56+0300 INFO: Завершение работы робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\f7d9a8d5-68d1-497f-81b0-48bd9b85b72c\llirik_606.py
+2026-04-22T16:24:59+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:27:07+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:27:11+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\5ee00b0f-9ef8-420f-b6ed-ed5ca2671725\llirik_606.py
+2026-04-22T16:27:32+0300 INFO: Завершение работы робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\5ee00b0f-9ef8-420f-b6ed-ed5ca2671725\llirik_606.py
+2026-04-22T16:27:33+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:27:56+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:28:00+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\3acf9180-74b7-48e3-8097-b73a372e0f6d\llirik_606.py
+2026-04-22T16:28:30+0300 INFO: Завершение работы робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\3acf9180-74b7-48e3-8097-b73a372e0f6d\llirik_606.py
+2026-04-22T16:28:33+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:31:43+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:31:47+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\01b1a606-938e-4a59-a6c7-81d1c3b31879\llirik_606.py
+2026-04-22T16:32:30+0300 INFO: Завершение работы робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\01b1a606-938e-4a59-a6c7-81d1c3b31879\llirik_606.py
+2026-04-22T16:32:33+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:49:54+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:49:57+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\6137d78e-ea49-4bbc-96ac-cb68fc9c018e\llirik_606.py
+2026-04-22T16:50:08+0300 ERROR: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\6137d78e-ea49-4bbc-96ac-cb68fc9c018e\llirik_606.py Ошибка: name 'my_array' is not defined
+2026-04-22T16:50:12+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:50:30+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:50:34+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\500080d3-78cf-4e6a-b25a-7d947f42b0cb\llirik_606.py
+2026-04-22T16:50:47+0300 ERROR: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\500080d3-78cf-4e6a-b25a-7d947f42b0cb\llirik_606.py Ошибка: object of type 'float' has no len()
+2026-04-22T16:51:14+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:51:50+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:51:55+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\c23597f9-f87c-425f-b585-54caa7f7c6a5\llirik_606.py
+2026-04-22T16:52:25+0300 INFO: Завершение работы робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\c23597f9-f87c-425f-b585-54caa7f7c6a5\llirik_606.py
+2026-04-22T16:52:27+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:52:58+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
+2026-04-22T16:53:02+0300 INFO: Старт робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\24878de7-51eb-465f-9940-0a1e15560f8a\llirik_606.py
+2026-04-22T16:53:25+0300 INFO: Завершение работы робота: D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\resource\24878de7-51eb-465f-9940-0a1e15560f8a\llirik_606.py
+2026-04-22T16:53:28+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR9_Sopina_RPA_Web_p1_Problem2_var28\process\Процесс 1.json
