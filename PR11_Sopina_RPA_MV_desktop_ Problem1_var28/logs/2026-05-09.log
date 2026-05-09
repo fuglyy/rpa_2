@@ -1,0 +1,95 @@
+2026-05-09T17:39:55+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T17:39:59+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\b4aac384-285b-4762-b9d7-fc0d26662f5e\byte_490.py
+2026-05-09T17:40:33+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\b4aac384-285b-4762-b9d7-fc0d26662f5e\byte_490.py Ошибка: Изображение не было найдено
+2026-05-09T17:40:36+0300 Cannot read properties of undefined (reading 'match')
+2026-05-09T17:40:36+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T17:40:54+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T17:40:56+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\57259faa-7837-4f04-a7d1-c17fb7213520\byte_490.py
+2026-05-09T17:41:34+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\57259faa-7837-4f04-a7d1-c17fb7213520\byte_490.py Ошибка: Изображение не было найдено
+2026-05-09T17:41:37+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T17:43:56+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T17:43:59+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\522d72e8-08fd-47ac-872e-4afc1d3f9d8a\byte_490.py
+2026-05-09T17:44:33+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\522d72e8-08fd-47ac-872e-4afc1d3f9d8a\byte_490.py Ошибка: Изображение не было найдено
+2026-05-09T17:44:46+0300 Cannot read properties of undefined (reading 'match')
+2026-05-09T17:44:46+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T17:47:59+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T17:48:01+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\851292f8-5f3a-4783-9565-ddb4d806d48e\byte_490.py
+2026-05-09T17:50:45+0300 INFO: Завершение работы робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\851292f8-5f3a-4783-9565-ddb4d806d48e\byte_490.py
+2026-05-09T17:50:48+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:15:41+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:15:43+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\fe2fc12b-b95e-4477-9169-da6fcb4a8399\byte_490.py
+2026-05-09T18:20:46+0300 INFO: Завершение работы робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\fe2fc12b-b95e-4477-9169-da6fcb4a8399\byte_490.py
+2026-05-09T18:20:49+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:23:58+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:24:00+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\0d02782d-da6c-4bfd-8545-0fa299c31db1\byte_490.py
+2026-05-09T18:26:14+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:26:26+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:26:28+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\8295eb65-142b-4405-8d02-358d3dd30602\byte_490.py
+2026-05-09T18:29:55+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:35:13+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:35:15+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\98a13ee8-2ec6-4471-8e89-fe4605e5d137\byte_490.py
+2026-05-09T18:37:23+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:37:25+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:37:27+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\2cd92c04-ff8b-4976-b41e-1ee5e45b2d19\byte_490.py
+2026-05-09T18:41:18+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:44:57+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:45:00+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\b7eecb8d-9d74-4c94-8b2b-b828d352ad1c\byte_490.py
+2026-05-09T18:49:27+0300 INFO: Завершение работы робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\b7eecb8d-9d74-4c94-8b2b-b828d352ad1c\byte_490.py
+2026-05-09T18:49:29+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:49:45+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:49:47+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\eaf15212-6a72-4dca-a718-9360269b7a58\byte_490.py
+2026-05-09T18:51:55+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\eaf15212-6a72-4dca-a718-9360269b7a58\byte_490.py Ошибка: cannot access local variable 'activated_count' where it is not associated with a value
+2026-05-09T18:52:13+0300 Cannot read properties of undefined (reading 'match')
+2026-05-09T18:52:13+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:53:39+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T18:53:42+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\db67896a-d7ae-48ff-aeb5-fead09580265\byte_490.py
+2026-05-09T18:55:33+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T19:03:16+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T19:03:18+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\7beafd32-fa6b-4d7e-8e88-4568d686783d\byte_490.py
+2026-05-09T19:05:08+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T19:06:12+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T19:06:14+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\401954a0-f865-4700-acc8-dea552e1263e\byte_490.py
+2026-05-09T19:08:00+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\401954a0-f865-4700-acc8-dea552e1263e\byte_490.py Ошибка: Find Control Timeout(10s): {Name: 'Строка 0', ControlType: CustomControl}
+2026-05-09T19:08:06+0300 Cannot read properties of undefined (reading 'match')
+2026-05-09T19:08:06+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T19:08:41+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T19:08:44+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\25673bab-2fa8-4cef-bcf2-017bb454b064\byte_490.py
+2026-05-09T19:09:52+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T19:18:27+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T19:18:29+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\22eef6b3-7aba-40df-9544-64b5d01d4616\byte_490.py
+2026-05-09T19:22:03+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T19:23:27+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T19:23:29+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\e44b2466-fb68-4567-8a68-7826371dd817\byte_490.py
+2026-05-09T19:23:31+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\e44b2466-fb68-4567-8a68-7826371dd817\byte_490.py Ошибка: name 'gpt' is not defined
+2026-05-09T19:23:46+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T19:24:08+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T19:24:10+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\bcc69338-8347-4588-8c01-506f607fb5fb\byte_490.py
+2026-05-09T19:28:32+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T20:37:56+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T20:37:58+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\4e55706b-a638-4060-9598-2619df34d282\byte_490.py
+2026-05-09T20:40:16+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\4e55706b-a638-4060-9598-2619df34d282\byte_490.py Ошибка: Find Control Timeout(10s): {Name: 'Form1', AutomationId: 'Form1', ControlType: WindowControl}
+2026-05-09T20:40:18+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T20:40:21+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T20:40:23+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\e09f1d47-fefb-4fd6-93fc-8c58a5b50dd4\byte_490.py
+2026-05-09T20:40:33+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\e09f1d47-fefb-4fd6-93fc-8c58a5b50dd4\byte_490.py Ошибка: Изображение не было найдено
+2026-05-09T20:40:34+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T20:41:16+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T20:41:18+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\48a9ad77-30a6-41c2-8cf6-5d12f73e98eb\byte_490.py
+2026-05-09T20:44:40+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T20:46:18+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T20:46:20+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\237b0238-507e-47e3-8250-34f32e0f8918\byte_490.py
+2026-05-09T20:48:59+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T20:50:20+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T20:50:22+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\6dc06529-079b-46d7-9cbc-b8c4117526a2\byte_490.py
+2026-05-09T20:54:03+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T21:04:33+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T21:04:35+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\dc1b8d9c-dac3-46ba-ad70-0baa6c257699\byte_490.py
+2026-05-09T21:07:01+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T21:07:24+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T21:07:26+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\e6cb04fe-d77a-4ce3-bc1b-a57e5cc40392\byte_490.py
+2026-05-09T21:07:34+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\e6cb04fe-d77a-4ce3-bc1b-a57e5cc40392\byte_490.py Ошибка: Изображение не было найдено
+2026-05-09T21:07:37+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T21:07:43+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-09T21:07:45+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\6e6cc24b-d541-4e0f-95a1-2c5891758f69\byte_490.py
+2026-05-09T21:12:09+0300 INFO: Завершение работы робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\6e6cc24b-d541-4e0f-95a1-2c5891758f69\byte_490.py
+2026-05-09T21:12:09+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json

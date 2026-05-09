@@ -1,0 +1,95 @@
+2026-05-07T17:19:30+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T17:19:37+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\32eaf935-df24-4af4-8f92-2717025d2be1\byte_490.py
+2026-05-07T17:19:58+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\32eaf935-df24-4af4-8f92-2717025d2be1\byte_490.py Ошибка: Invalid URL 'http:///api/token': No host supplied
+2026-05-07T17:20:05+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T17:31:11+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T17:31:16+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\05ca3f87-fff0-4041-a669-ae46bc39a428\byte_490.py
+2026-05-07T17:31:38+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\05ca3f87-fff0-4041-a669-ae46bc39a428\byte_490.py Ошибка: 405 Client Error: Not Allowed for url: https://puzzle-gpt.mkskom.ru//api/token
+2026-05-07T17:31:41+0300 Cannot read properties of undefined (reading 'match')
+2026-05-07T17:31:41+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T17:32:51+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T17:32:56+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\55e2d2a4-a92d-4558-aec3-d4345a42b64d\byte_490.py
+2026-05-07T17:33:31+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\55e2d2a4-a92d-4558-aec3-d4345a42b64d\byte_490.py Ошибка: name 'my_array' is not defined
+2026-05-07T17:33:35+0300 Cannot read properties of undefined (reading 'match')
+2026-05-07T17:33:35+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T17:34:12+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T17:34:17+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\d0517dcf-c4c4-4760-96e1-0eb1ff35a5a5\byte_490.py
+2026-05-07T17:34:52+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\d0517dcf-c4c4-4760-96e1-0eb1ff35a5a5\byte_490.py Ошибка: name 'row_idx' is not defined
+2026-05-07T17:34:57+0300 Cannot read properties of undefined (reading 'match')
+2026-05-07T17:34:57+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T17:35:35+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T17:35:39+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\4ec2bb2e-6aae-4a1a-b914-746b4c934479\byte_490.py
+2026-05-07T17:36:14+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\4ec2bb2e-6aae-4a1a-b914-746b4c934479\byte_490.py Ошибка: 'B'
+2026-05-07T17:36:18+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T17:37:50+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T17:37:55+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\70af42bf-8ce8-41b7-a436-61e9ecbdb5a6\byte_490.py
+2026-05-07T17:38:29+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\70af42bf-8ce8-41b7-a436-61e9ecbdb5a6\byte_490.py Ошибка: Изображение не было найдено
+2026-05-07T17:38:55+0300 Cannot read properties of undefined (reading 'match')
+2026-05-07T17:38:55+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:33:45+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:33:56+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\b46f8c97-3d3d-46b5-9ea1-768c658f2fb3\byte_490.py
+2026-05-07T23:34:28+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\b46f8c97-3d3d-46b5-9ea1-768c658f2fb3\byte_490.py Ошибка: Изображение не было найдено
+2026-05-07T23:34:31+0300 Cannot read properties of undefined (reading 'match')
+2026-05-07T23:34:31+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:35:12+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:35:14+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\ecc3feb6-f391-42e5-935d-21a86d331bf2\byte_490.py
+2026-05-07T23:35:34+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\ecc3feb6-f391-42e5-935d-21a86d331bf2\byte_490.py Ошибка: Изображение не было найдено
+2026-05-07T23:35:43+0300 Cannot read properties of undefined (reading 'match')
+2026-05-07T23:35:43+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:36:50+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:36:52+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\78e93ffb-2fb6-4c9f-a46c-4cae6519ef1e\byte_490.py
+2026-05-07T23:37:27+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\78e93ffb-2fb6-4c9f-a46c-4cae6519ef1e\byte_490.py Ошибка: Изображение не было найдено
+2026-05-07T23:37:31+0300 Cannot read properties of undefined (reading 'match')
+2026-05-07T23:37:31+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:39:12+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:39:14+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\ac6bf321-cb77-4ce8-9e15-5586eeeecdce\byte_490.py
+2026-05-07T23:40:08+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\ac6bf321-cb77-4ce8-9e15-5586eeeecdce\byte_490.py Ошибка: Изображение не было найдено
+2026-05-07T23:40:12+0300 Cannot read properties of undefined (reading 'match')
+2026-05-07T23:40:12+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:44:19+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:44:21+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\547a60fa-a18e-4ea8-aed2-3117d11c7465\byte_490.py
+2026-05-07T23:44:54+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\547a60fa-a18e-4ea8-aed2-3117d11c7465\byte_490.py Ошибка: Изображение не было найдено
+2026-05-07T23:44:56+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:45:34+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:45:38+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\0738bf04-f757-48b3-b832-22f821445db1\byte_490.py
+2026-05-07T23:46:11+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\0738bf04-f757-48b3-b832-22f821445db1\byte_490.py Ошибка: Изображение не было найдено
+2026-05-07T23:46:16+0300 Cannot read properties of undefined (reading 'match')
+2026-05-07T23:46:16+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:46:52+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:46:54+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\be5895e5-8f34-4cea-a778-1ca8a0f473de\byte_490.py
+2026-05-07T23:47:44+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\be5895e5-8f34-4cea-a778-1ca8a0f473de\byte_490.py Ошибка: list index out of range
+2026-05-07T23:47:49+0300 Cannot read properties of undefined (reading 'match')
+2026-05-07T23:47:49+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:51:08+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:51:17+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\1ce605ae-4b13-484b-9cfb-a7bdce933e32\byte_490.py
+2026-05-07T23:51:19+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\1ce605ae-4b13-484b-9cfb-a7bdce933e32\byte_490.py Ошибка: 405 Client Error: Not Allowed for url: https://puzzle-gpt.mkskom.ru//api/token
+2026-05-07T23:51:24+0300 Cannot read properties of undefined (reading 'match')
+2026-05-07T23:51:24+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:51:30+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:51:32+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\8accaf31-a195-4234-b41d-1237a8527f78\byte_490.py
+2026-05-07T23:51:55+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:53:41+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:53:43+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\f1ee9f89-07f7-44f0-8298-492cf03b15ab\byte_490.py
+2026-05-07T23:53:43+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\f1ee9f89-07f7-44f0-8298-492cf03b15ab\byte_490.py Ошибка: name 'subscribers_array' is not defined
+2026-05-07T23:53:46+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:53:53+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:53:55+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\0258de88-ad58-4d2e-b270-5ef0b3265bc8\byte_490.py
+2026-05-07T23:54:55+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:55:01+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:55:03+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\f0c2fb40-7441-4bab-acd6-606aa5a67e80\byte_490.py
+2026-05-07T23:55:36+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\f0c2fb40-7441-4bab-acd6-606aa5a67e80\byte_490.py Ошибка: Изображение не было найдено
+2026-05-07T23:55:57+0300 Cannot read properties of undefined (reading 'match')
+2026-05-07T23:55:57+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:56:14+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:56:16+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\8d730dba-dc5e-464f-a455-a2b5a83b4c0b\byte_490.py
+2026-05-07T23:56:49+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\8d730dba-dc5e-464f-a455-a2b5a83b4c0b\byte_490.py Ошибка: Изображение не было найдено
+2026-05-07T23:56:51+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:59:30+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-07T23:59:32+0300 INFO: Старт робота: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\a8b425ee-5a53-4e3d-91e5-47a49cace54a\byte_490.py
+2026-05-07T23:59:35+0300 ERROR: D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\resource\a8b425ee-5a53-4e3d-91e5-47a49cace54a\byte_490.py Ошибка: HTTPConnectionPool(host='127.0.0.1', port=80): Max retries exceeded with url: /api/token (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002342C00CBD0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2026-05-07T23:59:47+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-08T00:00:30+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-08T00:00:49+0300 Cannot read properties of undefined (reading 'match')
+2026-05-08T00:00:49+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-08T00:01:16+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
+2026-05-08T00:02:10+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR11_Sopina_RPA_MV_desktop_ Problem1_var28\process\Процесс 1.json
