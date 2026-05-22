@@ -1,0 +1,63 @@
+2026-05-22T16:48:52+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:48:57+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\3c20b0a4-572c-464c-8529-e45a5e00a9ce\matrix_157.py
+2026-05-22T16:48:57+0300 ERROR: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\3c20b0a4-572c-464c-8529-e45a5e00a9ce\matrix_157.py Ошибка: [Errno 2] No such file or directory: 'D:\\Temp14\\Extracted\\pay_001\\data.xml'
+2026-05-22T16:49:02+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:49:37+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:49:41+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\d2357a17-1d94-487f-9b92-49e4b47d36b4\matrix_157.py
+2026-05-22T16:49:41+0300 INFO: Завершение работы робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\d2357a17-1d94-487f-9b92-49e4b47d36b4\matrix_157.py
+2026-05-22T16:49:41+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:53:49+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:53:53+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\e5d6f12a-59a2-4dd6-82af-d41a386c19ff\matrix_157.py
+2026-05-22T16:53:53+0300 INFO: Завершение работы робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\e5d6f12a-59a2-4dd6-82af-d41a386c19ff\matrix_157.py
+2026-05-22T16:53:53+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:54:20+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:54:23+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\a2d425db-c323-4e6d-81de-dbcc718a09f9\matrix_157.py
+2026-05-22T16:54:23+0300 INFO: Завершение работы робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\a2d425db-c323-4e6d-81de-dbcc718a09f9\matrix_157.py
+2026-05-22T16:54:24+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:56:12+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:56:16+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\14fc60bb-65fa-4438-8452-077647214e14\matrix_157.py
+2026-05-22T16:56:16+0300 ERROR: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\14fc60bb-65fa-4438-8452-077647214e14\matrix_157.py Ошибка: Destination path 'D:\Archived_Errors\pay_001.zip' already exists
+2026-05-22T16:56:19+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:56:37+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:56:41+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\d1f57fdc-4b5d-4c3c-9e66-79504f600c78\matrix_157.py
+2026-05-22T16:56:41+0300 INFO: Завершение работы робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\d1f57fdc-4b5d-4c3c-9e66-79504f600c78\matrix_157.py
+2026-05-22T16:56:41+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:58:01+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:58:05+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\36301b5e-0d52-4dbb-b178-f2d3a090bf6b\matrix_157.py
+2026-05-22T16:58:05+0300 ERROR: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\36301b5e-0d52-4dbb-b178-f2d3a090bf6b\matrix_157.py Ошибка: Row or column values must be at least 1
+2026-05-22T16:58:09+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:58:13+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T16:58:17+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\74a6d5c8-2e0d-48b1-bc63-119fa0431cd3\matrix_157.py
+2026-05-22T16:58:17+0300 INFO: Завершение работы робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\74a6d5c8-2e0d-48b1-bc63-119fa0431cd3\matrix_157.py
+2026-05-22T16:58:17+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:01:24+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:01:28+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\c1d0bfad-af03-45d9-89db-3d296e2dae19\matrix_157.py
+2026-05-22T17:01:28+0300 INFO: Завершение работы робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\c1d0bfad-af03-45d9-89db-3d296e2dae19\matrix_157.py
+2026-05-22T17:01:28+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:02:21+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:02:25+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\deb45fe5-d7dd-4a9b-a9f8-fcfcbd753177\matrix_157.py
+2026-05-22T17:02:25+0300 ERROR: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\deb45fe5-d7dd-4a9b-a9f8-fcfcbd753177\matrix_157.py Ошибка: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом: 'D:\\Reports14\\verification_v28.xlsx'
+2026-05-22T17:02:29+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:02:50+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:02:54+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\48133449-ad10-41a6-85d9-3fdbd8768f82\matrix_157.py
+2026-05-22T17:02:56+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:03:08+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:03:12+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\1b74f051-e858-43c7-81c1-beae223b138c\matrix_157.py
+2026-05-22T17:03:18+0300 INFO: Завершение работы робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\1b74f051-e858-43c7-81c1-beae223b138c\matrix_157.py
+2026-05-22T17:03:21+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:04:38+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:04:41+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\02861d0e-8d1a-4bbf-a753-8f01a05a22b9\matrix_157.py
+2026-05-22T17:04:48+0300 INFO: Завершение работы робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\02861d0e-8d1a-4bbf-a753-8f01a05a22b9\matrix_157.py
+2026-05-22T17:04:50+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:08:08+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:08:12+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\943249fb-6036-49b5-bcdc-f1e8a46a4292\matrix_157.py
+2026-05-22T17:08:12+0300 ERROR: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\943249fb-6036-49b5-bcdc-f1e8a46a4292\matrix_157.py Ошибка: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом: 'D:\\Reports14\\verification_v28.xlsx'
+2026-05-22T17:08:18+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:08:23+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:08:26+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\5e9c3ff0-741a-4431-bff5-44d79cc002d8\matrix_157.py
+2026-05-22T17:08:41+0300 INFO: Завершение работы робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\5e9c3ff0-741a-4431-bff5-44d79cc002d8\matrix_157.py
+2026-05-22T17:08:43+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:10:42+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json
+2026-05-22T17:10:45+0300 INFO: Старт робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\f70ae7e7-8f07-4fc5-adbd-f3251d2a8de9\matrix_157.py
+2026-05-22T17:10:58+0300 INFO: Завершение работы робота: D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\resource\f70ae7e7-8f07-4fc5-adbd-f3251d2a8de9\matrix_157.py
+2026-05-22T17:11:01+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR14_Sopina_ RPA_OCR_p2_var28\process\Процесс 1.json

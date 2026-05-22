@@ -1,0 +1,85 @@
+2026-05-20T15:22:16+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:22:23+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\80072924-5359-4160-872a-2ba749579485\servo_585.py
+2026-05-20T15:22:23+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\80072924-5359-4160-872a-2ba749579485\servo_585.py Ошибка: name 'utf' is not defined
+2026-05-20T15:22:31+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:22:47+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:22:51+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\f4b82ab4-3370-46f7-9307-949c7bb3e46f\servo_585.py
+2026-05-20T15:22:51+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\f4b82ab4-3370-46f7-9307-949c7bb3e46f\servo_585.py Ошибка: name 'UTF' is not defined
+2026-05-20T15:22:54+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:23:23+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:23:26+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\67c362dc-001d-43a0-8f9d-1a98727e0b4b\servo_585.py
+2026-05-20T15:23:27+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\67c362dc-001d-43a0-8f9d-1a98727e0b4b\servo_585.py Ошибка: name 'UTF' is not defined
+2026-05-20T15:23:38+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:24:22+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:24:26+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\33deac41-3885-44cf-8660-0ef2023ced2b\servo_585.py
+2026-05-20T15:26:43+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:26:46+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\9a1bcdbc-d734-4786-814f-247f998c21b0\servo_585.py
+2026-05-20T15:26:50+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\9a1bcdbc-d734-4786-814f-247f998c21b0\servo_585.py Ошибка: EOF marker not found
+2026-05-20T15:27:00+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:29:55+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:29:58+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\cb2cae6c-bb80-4e96-bec4-dca32dec869a\servo_585.py
+2026-05-20T15:30:11+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\cb2cae6c-bb80-4e96-bec4-dca32dec869a\servo_585.py Ошибка: [Errno 2] No such file or directory: ''
+2026-05-20T15:30:27+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:32:41+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:32:43+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\ead83df0-582a-43c9-b883-407d9fd7c123\servo_585.py
+2026-05-20T15:32:56+0300 INFO: Завершение работы робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\ead83df0-582a-43c9-b883-407d9fd7c123\servo_585.py
+2026-05-20T15:32:57+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:42:37+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:49:01+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:49:03+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\e8599ac5-f0df-4d8a-8d27-2593bc103f69\servo_585.py
+2026-05-20T15:49:03+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\e8599ac5-f0df-4d8a-8d27-2593bc103f69\servo_585.py Ошибка: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом: 'D:\\Temp\\Extracted'
+2026-05-20T15:49:08+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:49:14+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:49:17+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\96f70801-94bd-4de3-8473-1e595ec82585\servo_585.py
+2026-05-20T15:49:17+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\96f70801-94bd-4de3-8473-1e595ec82585\servo_585.py Ошибка: [WinError 123] Синтаксическая ошибка в имени файла, имени папки или метке тома: 'D:\\Temp\\Extracted\\D:'
+2026-05-20T15:49:23+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:50:04+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:50:06+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\0d0d026d-26d5-4522-ad6d-544cfa677461\servo_585.py
+2026-05-20T15:50:07+0300 INFO: Завершение работы робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\0d0d026d-26d5-4522-ad6d-544cfa677461\servo_585.py
+2026-05-20T15:50:07+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:50:12+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:50:14+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\118a3fe0-6235-456b-8402-b1ca4f266793\servo_585.py
+2026-05-20T15:50:14+0300 INFO: Завершение работы робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\118a3fe0-6235-456b-8402-b1ca4f266793\servo_585.py
+2026-05-20T15:50:15+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:57:04+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T15:57:23+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:03:19+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:03:21+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\9068526e-b6c2-46f8-9f76-b0be5b3e8d4c\servo_585.py
+2026-05-20T16:05:51+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\9068526e-b6c2-46f8-9f76-b0be5b3e8d4c\servo_585.py Ошибка: Destination path 'D:\Temp\Extracted\sysxml_20260420\log.txt' already exists
+2026-05-20T16:06:02+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:06:49+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:06:51+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\f4ca999a-ac08-4eb3-aaa8-cac21d748407\servo_585.py
+2026-05-20T16:06:54+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\f4ca999a-ac08-4eb3-aaa8-cac21d748407\servo_585.py Ошибка: Destination path 'D:\Temp\Extracted\sysxml_20260420\log.txt' already exists
+2026-05-20T16:07:06+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:07:44+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:07:46+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\41f3b591-d9b9-4f1d-b493-65598b3daed2\servo_585.py
+2026-05-20T16:07:50+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\41f3b591-d9b9-4f1d-b493-65598b3daed2\servo_585.py Ошибка: Destination path 'D:\Temp\Extracted\sysxml_20260420\log.txt' already exists
+2026-05-20T16:07:54+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:08:34+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:08:36+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\48b0d913-9749-413d-b5cd-67b9828ccb33\servo_585.py
+2026-05-20T16:08:40+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\48b0d913-9749-413d-b5cd-67b9828ccb33\servo_585.py Ошибка: [Errno 22] Invalid argument: 'D:\\Temp\\Extracted\\sysxml_20260420\\Log_14:35:22_ERR-500'
+2026-05-20T16:08:49+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:09:25+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:09:28+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\956688f7-6989-4ead-878b-556e6cb449e4\servo_585.py
+2026-05-20T16:09:33+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\956688f7-6989-4ead-878b-556e6cb449e4\servo_585.py Ошибка: [Errno 22] Invalid argument: 'D:\\Temp\\Extracted\\sysxml_20260420\\Log_14:35:22_ERR-500.txt'
+2026-05-20T16:09:42+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:15:07+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:15:10+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\651cebb9-14c3-410c-8e0e-1384a8efc371\servo_585.py
+2026-05-20T16:15:16+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\651cebb9-14c3-410c-8e0e-1384a8efc371\servo_585.py Ошибка: name 'code_pdf' is not defined
+2026-05-20T16:15:20+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:15:38+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:15:40+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\77b6da29-4143-4341-8378-eae991af0dfd\servo_585.py
+2026-05-20T16:15:46+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\77b6da29-4143-4341-8378-eae991af0dfd\servo_585.py Ошибка: name 'code_pdf' is not defined
+2026-05-20T16:15:49+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:15:55+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:15:57+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\e6ee891c-e704-4089-92b5-2a8f8c5ca628\servo_585.py
+2026-05-20T16:16:03+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\e6ee891c-e704-4089-92b5-2a8f8c5ca628\servo_585.py Ошибка: Указанный(-ая) файл/папка не существует
+2026-05-20T16:16:15+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:16:30+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:16:32+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\c525da5e-d9b9-4585-8105-824aa13e1019\servo_585.py
+2026-05-20T16:16:36+0300 ERROR: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\c525da5e-d9b9-4585-8105-824aa13e1019\servo_585.py Ошибка: Указанный(-ая) файл/папка не существует
+2026-05-20T16:16:43+0300 ERROR: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:17:37+0300 INFO: Запуск процесса из студии разработки. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
+2026-05-20T16:17:39+0300 INFO: Старт робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\0ca1174e-dda7-44c6-b097-09f2e9afc04a\servo_585.py
+2026-05-20T16:17:50+0300 INFO: Завершение работы робота: D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\resource\0ca1174e-dda7-44c6-b097-09f2e9afc04a\servo_585.py
+2026-05-20T16:17:51+0300 INFO: Завершение выполнения процесса. D:\univer\korporat\PR13_Sopina_ RPA_OCR_p1_var28\process\Процесс 1.json
